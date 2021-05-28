@@ -1,4 +1,4 @@
-# quizzler
+# Football Quiz App
 
 It is a flutter app that tests the football fans ⚽
 
